@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "Hugo Hack"
+baseurl = "http://example.org/"
+theme = "ananke"
