@@ -1,4 +1,4 @@
 languageCode = "en-us"
 title = "Hugo Hack"
-baseurl = "http://example.org/"
+baseurl = "https://philologist-airspeeds-32351.netlify.com"
 theme = "ananke"
