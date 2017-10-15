@@ -17,7 +17,7 @@ by a useful message.
 
 This concludes this test.
 
-----
+---
 
 We now return you to your regular programming,
 already in progress.
